@@ -1,0 +1,108 @@
+.list-group li {
+    background-color: #2A2F33;
+    margin-left: 0px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.list-group {
+    background: #2A2F33;
+}
+
+.img-fuild {
+    padding: 0px;
+}
+
+.container {
+    padding: 0px;
+}
+
+.main.col-9 {
+    padding: 0px;
+}
+
+.main.col-8 {
+    padding: 0px;
+}
+
+.list-group li a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-group li:hover {
+    background-color: red !important;
+    color: #2A2F33;
+}
+
+.imageright {
+    margin-bottom: 10px;
+    background-color: #EDEFF0;
+}
+
+.decription {
+    position: absolute;
+    top: 70%;
+    color: white;
+    left: 5%;
+}
+
+.img-fuild {
+    padding: 5px;
+    margin: 5px;
+}
+
+.detail {
+    margin: 70px;
+}
+
+.content {
+    position: relative;
+}
+
+.content img {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    background-color: white;
+}
+
+.menu {
+    padding: 0px;
+}
+
+.text-left {
+    border-bottom: 2px solid #ff0000;
+    width: 100px;
+}
+
+.image {
+    width: 120px;
+    height: 60px;
+}
+
+.text {
+    text-decoration: none;
+    border-bottom: 2px solid #ff0000;
+    width: 50px;
+    color: black;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.text2 {
+    text-decoration: none;
+    color: black;
+    float: left;
+    left: 0;
+}
+
+.text3 {
+    text-decoration: none;
+    border-bottom: 2px solid #ff0000;
+    width: 50px;
+    color: black;
+    float: left;
+    left: 0;
+}
